@@ -3,9 +3,27 @@ So programming has three fundamental pillars:
   2. Logic 
   3. Domain 
 
+Python was a Christmas project of a man named Guido van Rossum who was from Amsterdam. He started developing it in 1980s and 0.9.0 version of it was released in 1989.
+The current version of Python is 3.14.5    Version number consists of Major.Minor.Micro 
+Major = Any major changes in the language itself 
+Minor = Minor changes in the language
+Micro = bug fixes/patches
+
 Python is not a programming language, it is nothing but set of rules. Below are few listed types of python: 
-  1. Cpython (C)
+  1. Cpython (C) ~ everyone uses this
   2. Jython (Java)
   3. pypy (Python)
   4. ironpython (C#)
 
+Features of python: 
+1. Simple 
+2. Platform independent 
+3. Architecture Neutral 
+4. Extensive libraries 
+5. Dynamic typing 
+6. Virtual Language as its based off of PVM (Python Virtual Machine) [Native languages are C,cpp]
+7. Open Source 
+
+First the source code is taken into compiler which converts it into byte code (pyc format in python) which is then interpreted by the interpreter into machine language i.e. binay.
+
+[ Source Code (.py) ] ──> ( Lexical analysis, parsing, Compilation Step )  ──> [ Bytecode (.pyc) ] ──> ( Python Virtual Machine ) ──> [ CPU Execution ]
