@@ -1,0 +1,11 @@
+So programming has three fundamental pillars: 
+  1. Language 
+  2. Logic 
+  3. Domain 
+
+Python is not a programming language, it is nothing but set of rules. Below are few listed types of python: 
+  1. Cpython (C)
+  2. Jython (Java)
+  3. pypy (Python)
+  4. ironpython (C#)
+
